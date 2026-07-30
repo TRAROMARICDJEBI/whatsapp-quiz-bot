@@ -1,0 +1,4 @@
+# wrangler.toml
+name = "whatsapp-quiz-bot"
+main = "worker.js"
+compatibility_date = "2024-01-01"
